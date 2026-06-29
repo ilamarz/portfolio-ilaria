@@ -24,3 +24,8 @@
 - Definire tipografia (serif o sans elegante?)
 - Scegliere il colore esatto della palette
 - Iniziare wireframe in Figma
+
+## Storytelling e tono di voce
+- Aggiungere frasi personali e simpatiche (es. passione per i cani)
+- Tono: elegante ma umano, non formale, non bambinesco
+- Obiettivo: chi legge deve sentire la persona dietro al sito
